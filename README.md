@@ -16,4 +16,4 @@
 # PROJECTS
 | Columna 1 | Columna 2 |
 |---|---|
-| <img src="Drone.jpeg" width="200"> | <img src="img1.png" width="200"> |
+| <img src="Drone.jpeg" width="400"> | <img src="img1.png" width="400"> |
