@@ -16,7 +16,7 @@
 # PROJECTS
 | Domótica | Domótica |
 |---|---|
-| <img src="Drone.jpeg" width="400"> | <img src="img1.png" width="400"> |
+| <img src="iot.png" width="400"> | <img src="iot2.png" width="400"> |
 | Drone IA | Exploración IA |
 | <img src="Drone.jpeg" width="400"> | <img src="img1.png" width="400"> |
 | Mini Satelite | R-QUEX |
