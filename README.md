@@ -18,8 +18,6 @@
 |---|---|
 | <img src="Drone.jpeg" width="400"> | <img src="img1.png" width="400"> |
 | Drone IA | Exploración IA |
-|---|---|
 | <img src="Drone.jpeg" width="400"> | <img src="img1.png" width="400"> |
 | Mini Satelite | R-QUEX |
-|---|---|
 | <img src="cubesat.jpeg" width="400"> | <img src="img3.jpeg" width="400"> |
