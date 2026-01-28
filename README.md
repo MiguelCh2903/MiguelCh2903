@@ -6,89 +6,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Mobile Guide Robot
-![AI Robot](https://via.placeholder.com/400x300/1a1b27/00ff00?text=AI+Guide+Robot)
-
-Autonomous robot with generative AI for exhibition spaces
-- **AI**: LLM, NLP, Voice Synthesis
-- **Hardware**: ESP32, Omnidirectional drive
-- **Stack**: Python, Generative AI APIs
-
-</td>
-<td width="50%">
-
-### 🏠 Smart Home Assistant V2
-![Smart Home](https://via.placeholder.com/400x300/1a1b27/00d4ff?text=Smart+Home+AI)
-
-Advanced home automation with AI voice control
-- **AI**: Voice processing, Low latency
-- **IoT**: Multiple device integration
-- **Stack**: Docker, Python, MQTT, Raspberry Pi
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🦿 Hexapod Exploration Robot
-![Hexapod](https://via.placeholder.com/400x300/1a1b27/ff00ff?text=Hexapod+Robot)
-
-AI-powered robot for difficult terrain navigation
-- **AI**: Reinforcement Learning, Computer Vision
-- **Design**: Complete mechanical assembly
-- **Stack**: Python, PyTorch, OpenCV, SolidWorks
-
-</td>
-<td width="50%">
-
-### 🚁 Drone AI Control System
-![Drone](https://via.placeholder.com/400x300/1a1b27/ff6b00?text=Drone+AI+Control)
-
-Flight control system for extreme conditions
-- **AI**: Adaptive control, Turbulence handling
-- **Performance**: CUDA acceleration
-- **Stack**: Python, C, JavaScript, CUDA
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤵 AI Productivity Assistant
-![AI Assistant](https://via.placeholder.com/400x300/1a1b27/yellow?text=AI+Assistant)
-
-Personal assistant with RAG and multimodal AI
-- **AI**: Document search, Image analysis
-- **Features**: Schedule, productivity, web search
-- **Stack**: Python, Rust, LangGraph
-
-</td>
-<td width="50%">
-
-### 🎯 More Projects
-![More](https://via.placeholder.com/400x300/1a1b27/white?text=View+More)
-
-Check out more projects on my repositories!
-- Industrial automation
-- Computer vision systems
-- IoT solutions
-
-[View All →](https://github.com/MiguelCh2903?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Artificial Intelligence & Machine Learning
@@ -136,23 +53,87 @@ Check out more projects on my repositories!
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### CAD & Mechanical Design
-- 🔧 **SolidWorks**: Mechanical design and analysis
-- 🎨 **Fusion360**: 3D modeling and CAM
-- 📐 **AutoCAD**: Technical drawings
-- 🖨️ **3D Printing**: Rapid prototyping
+---
 
-### Electronics & PCB Design
-- ⚡ **KiCAD / EasyEDA**: PCB design
-- 🔌 **STM32, ESP32**: Embedded systems
-- 🛠️ Electronic soldering and assembly
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Mobile Guide Robot
+![AI Robot](https://github.com/user-attachments/assets/placeholder)
+
+Autonomous robot with generative AI
+- **AI**: LLM, NLP, Voice Synthesis
+- **Stack**: Python, ESP32, AI APIs
+
+</td>
+<td width="50%">
+
+### 🏠 Smart Home Assistant V2
+![Smart Home](https://github.com/user-attachments/assets/placeholder)
+
+Advanced home automation with AI
+- **AI**: Voice control, Low latency
+- **Stack**: Docker, Python, MQTT, RPi
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🦿 Hexapod Exploration Robot
+![Hexapod](https://github.com/user-attachments/assets/placeholder)
+
+AI-powered robot for difficult terrain
+- **AI**: Reinforcement Learning, CV
+- **Stack**: Python, PyTorch, OpenCV
+
+</td>
+<td width="50%">
+
+### 🚁 Drone AI Control System
+![Drone](https://github.com/user-attachments/assets/placeholder)
+
+Extreme conditions flight control
+- **AI**: Adaptive control system
+- **Stack**: Python, C, CUDA
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤵 AI Productivity Assistant
+![AI Assistant](https://github.com/user-attachments/assets/placeholder)
+
+Personal assistant with RAG
+- **AI**: Document search, Image analysis
+- **Stack**: Python, Rust, LangGraph
+
+</td>
+<td width="50%">
+
+### 🎯 More Projects
+![More](https://github.com/user-attachments/assets/placeholder)
+
+Check out more projects!
+
+[View All →](https://github.com/MiguelCh2903?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Education
 
 🎓 **Mechatronics Engineering** - National University of Engineering (UNI), Peru  
-📅 2021 - 2026 (Graduated)
+📅 2021 - 2025
 
 **Highlighted Courses**: Artificial Intelligence, Process Control, Project Management
 
@@ -164,7 +145,7 @@ Check out more projects on my repositories!
 ## 🌍 Languages
 
 - 🇪🇸 **Spanish**: Native
-- 🇬🇧 **English**: Advanced
+- 🇺🇸 **English**: Advanced
 
 ---
 
@@ -177,8 +158,6 @@ Check out more projects on my repositories!
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelCh2903&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCh2903&layout=compact&theme=tokyonight&hide_border=true)
 
