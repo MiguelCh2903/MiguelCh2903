@@ -2,17 +2,7 @@
 
 ## 🤖 AI Developer & Mechatronics Engineer
 
-**Graduated Mechatronics Engineering Student** specialized in **Artificial Intelligence**, **Computer Vision**, and **AI-driven Process Automation** with hands-on experience in industrial projects. Passionate about developing intelligent automation solutions that integrate hardware and software systems.
-
-### 🎯 Core Expertise
-
-- 🧠 **Artificial Intelligence**: Deep Learning, Machine Learning, Reinforcement Learning
-- 👁️ **Computer Vision**: Object detection, segmentation, LiDAR point cloud processing
-- ⚙️ **AI Process Automation**: Intelligent workflow automation, anomaly detection, predictive systems
-- 🤖 **Intelligent Robotics**: AI integration in autonomous robotic systems
-- 💬 **Conversational AI**: Development with LangChain, RAG systems
-- 📊 **Data Processing**: Time series analysis, anomaly detection
-- 🔧 **Hardware-Software Integration**: Embedded systems, IoT, industrial automation
+**Graduated Mechatronics Engineering Student** specialized in **Artificial Intelligence**, **Computer Vision**, and **AI-driven Process Automation**. Passionate about developing intelligent automation solutions that integrate hardware and software systems.
 
 ---
 
@@ -136,7 +126,6 @@ Assistant with generative AI (ongoing development)
 ## 📫 Contact
 
 - 📧 Email: miguel.chumacero.b@gmail.com
-- 📱 WhatsApp: +51 940 369 704
 - 💼 GitHub: [@MiguelCh2903](https://github.com/MiguelCh2903)
 - 📍 Lima, Peru
 
