@@ -8,39 +8,84 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Mobile Guide Robot (2025)
-Autonomous robot for query management in exhibition spaces using generative AI
-- LLM integration for natural language processing
-- Omnidirectional movement system for agile navigation
-- Real-time wireless communication
-- **Stack**: Python, ESP32, Generative AI APIs, Cloud Audio Services
+<table>
+<tr>
+<td width="50%">
 
-### 🏠 Smart Home Assistant V2 (2024-2025)
-Advanced home automation system with AI
-- **Docker**-based architecture for scalability
-- Integration with multiple IoT devices
-- Voice processing with low latency
-- **Stack**: Docker, Python, MQTT, AI APIs, Raspberry Pi, ESP32
+### 🤖 AI Mobile Guide Robot
+![AI Robot](https://via.placeholder.com/400x300/1a1b27/00ff00?text=AI+Guide+Robot)
 
-### 🦿 Hexapod Exploration Robot (2024)
-Robot for difficult terrain with AI
-- Movement control using **Reinforcement Learning**
-- Autonomous navigation with **Computer Vision**
-- Complete mechanical design and assembly
-- **Stack**: Python, PyTorch, OpenCV, Fusion360, SolidWorks
+Autonomous robot with generative AI for exhibition spaces
+- **AI**: LLM, NLP, Voice Synthesis
+- **Hardware**: ESP32, Omnidirectional drive
+- **Stack**: Python, Generative AI APIs
 
-### 🚁 Drone Control System for Extreme Conditions (2024-2025)
-Flight software for extreme weather conditions
-- **AI-based** control system
-- Turbulence and dynamic movement handling
-- **Stack**: Python, JavaScript, C, CUDA
+</td>
+<td width="50%">
 
-### 🤵 AI Personal Assistant for Productivity (2024-2025)
-Assistant with generative AI (ongoing development)
-- RAG for local document and web search
-- Schedule and productivity management
-- Image analysis with Computer Vision
-- **Stack**: Python, JavaScript, Rust, LangGraph
+### 🏠 Smart Home Assistant V2
+![Smart Home](https://via.placeholder.com/400x300/1a1b27/00d4ff?text=Smart+Home+AI)
+
+Advanced home automation with AI voice control
+- **AI**: Voice processing, Low latency
+- **IoT**: Multiple device integration
+- **Stack**: Docker, Python, MQTT, Raspberry Pi
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🦿 Hexapod Exploration Robot
+![Hexapod](https://via.placeholder.com/400x300/1a1b27/ff00ff?text=Hexapod+Robot)
+
+AI-powered robot for difficult terrain navigation
+- **AI**: Reinforcement Learning, Computer Vision
+- **Design**: Complete mechanical assembly
+- **Stack**: Python, PyTorch, OpenCV, SolidWorks
+
+</td>
+<td width="50%">
+
+### 🚁 Drone AI Control System
+![Drone](https://via.placeholder.com/400x300/1a1b27/ff6b00?text=Drone+AI+Control)
+
+Flight control system for extreme conditions
+- **AI**: Adaptive control, Turbulence handling
+- **Performance**: CUDA acceleration
+- **Stack**: Python, C, JavaScript, CUDA
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤵 AI Productivity Assistant
+![AI Assistant](https://via.placeholder.com/400x300/1a1b27/yellow?text=AI+Assistant)
+
+Personal assistant with RAG and multimodal AI
+- **AI**: Document search, Image analysis
+- **Features**: Schedule, productivity, web search
+- **Stack**: Python, Rust, LangGraph
+
+</td>
+<td width="50%">
+
+### 🎯 More Projects
+![More](https://via.placeholder.com/400x300/1a1b27/white?text=View+More)
+
+Check out more projects on my repositories!
+- Industrial automation
+- Computer vision systems
+- IoT solutions
+
+[View All →](https://github.com/MiguelCh2903?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
